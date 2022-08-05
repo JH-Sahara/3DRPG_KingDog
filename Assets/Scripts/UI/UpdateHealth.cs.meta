@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b79a6887f6fcb348b5c52c3aeb3d274
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarParfab: {fileID: 4748333040926467370, guid: d63d1fa790dbef148822c5e8d2e887e3, type: 3}
+  - follow: {instanceID: 0}
+  - selfStats: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - currentHealthBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
